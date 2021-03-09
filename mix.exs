@@ -7,9 +7,9 @@ defmodule ListLength.MixProject do
       version: "0.1.0",
       elixir: "~> 1.11",
       start_permanent: Mix.env() == :prod,
-      deps: deps()
+      deps: deps(),
 
-      #Docs
+      # Docs
       name: "ListLength",
       source_url: "https://github.com/svgreve/ListLength",
       homepage_url: "http://localhost:4000/ListLength",
